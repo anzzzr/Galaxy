@@ -1,3 +1,4 @@
+![Repo Banner] (https://raw.githubusercontent.com/anzzzr/Galaxy/master/assets/Galaxy.jpg)
 # Galaxy
 
 An Open-Source Music Player App
